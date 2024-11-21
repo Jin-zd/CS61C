@@ -1,5 +1,5 @@
 CC = gcc
-CFLAGS = -g -Wall -std=c99 -c
+CFLAGS = -g -Wall -std=c11 -c
 LDFLAGS = -g -Wall
 VGFLAGS = --tool=memcheck --leak-check=full --dsymutil=yes --track-origins=yes
 
