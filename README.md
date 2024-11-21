@@ -1,4 +1,4 @@
-### UCB CS61C Great Ideas in Computer Architecture, Fall 2020
+### UCB CS61C: Great Ideas in Computer Architecture, Fall 2020
 
 课程主页：[https://cs61c.org/](https://cs61c.org/)
 
